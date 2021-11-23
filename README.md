@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mahmoud Segni
+- 👀 I’m interested in AI.
+- 🌱 I’m currently Focusing on Audio.
+- 💞️ I’m looking to collaborate in Kaggle and zindi compitions.
